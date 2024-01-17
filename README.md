@@ -1,3 +1,6 @@
+![image](https://github.com/nicoMusante/Siniestros_Viales/assets/103593406/be44b21a-40e1-4361-9cbe-648d3c5c79b4)
+
+
 # Análisis de Siniestros Viales en CABA
 
 ## Descripción del Proyecto
