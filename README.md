@@ -1,3 +1,8 @@
+![image](https://github.com/nicoMusante/Siniestros_Viales/assets/103593406/be44b21a-40e1-4361-9cbe-648d3c5c79b4)
+
+
+# Análisis de Siniestros Viales en CABA
+
 ## Descripción del Proyecto
 
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) de los siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA). El objetivo es identificar patrones, tendencias y correlaciones para informar esfuerzos de prevención y mejorar la seguridad vial.
@@ -27,10 +32,6 @@ El EDA se llevó a cabo en dos fases:
 
 - **Análisis Básico**: Se realizó una inspección inicial de los datos para comprender su estructura, calidad y distribución.
 - **Visualización de Datos**: Se crearon visualizaciones para explorar las relaciones entre las diferentes variables y detectar outliers.
-
-### Hallazgos Clave
-
-- (Resumen de hallazgos importantes del EDA)
 
 ## Dashboard
 
