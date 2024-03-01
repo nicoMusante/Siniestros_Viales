@@ -42,9 +42,36 @@ Se desarrolló un dashboard interactivo para ilustrar los KPIs relevantes a la s
 
 - **KPI**: Reducción de accidentes mortales de motociclistas.
 
-## Conclusiones y Recomendaciones
+### Conclusiones:
 
-(Resumen conciso de las conclusiones del proyecto y cualquier recomendación basada en los hallazgos.)
+1. **Patrones de Siniestralidad:**
+   - Se identificaron patrones claros en los datos, como áreas de mayor incidencia de siniestros viales. Estos patrones pueden ser utilizados para enfocar estrategias de prevención en ubicaciones específicas.
+
+2. **Factores Contribuyentes:**
+   - Se exploraron factores contribuyentes a los siniestros viales, como condiciones meteorológicas, horarios del día y días de la semana. Esto proporciona información valiosa para comprender los desencadenantes de los accidentes y diseñar medidas preventivas adecuadas.
+
+3. **Accidentes Mortales de Motociclistas:**
+   - El enfoque en la reducción de accidentes mortales de motociclistas como KPI es crucial. Los datos sugieren la importancia de implementar medidas específicas para mejorar la seguridad de este grupo, como campañas de concientización y mejoras en la infraestructura vial.
+
+4. **Dashboard Interactivo:**
+   - La creación de un dashboard interactivo facilita la visualización rápida de los KPIs y tendencias. Esto permite a los responsables de la toma de decisiones obtener información clave de manera eficiente.
+
+### Recomendaciones:
+
+1. **Intervenciones en Puntos Críticos:**
+   - Enfocar esfuerzos de prevención y aplicación de normativas en áreas identificadas como puntos críticos con alta incidencia de siniestros viales.
+
+2. **Campañas de Concientización:**
+   - Implementar campañas de concientización dirigidas específicamente a motociclistas, destacando medidas de seguridad y comportamientos responsables en la vía.
+
+3. **Análisis Continuo:**
+   - Establecer un proceso de análisis de datos continuo para monitorear cambios en las tendencias y ajustar estrategias de seguridad vial en consecuencia.
+
+4. **Colaboración Interinstitucional:**
+   - Fomentar la colaboración entre autoridades de tránsito, organismos de seguridad y otros actores relevantes para implementar medidas integrales y coordinadas.
+
+5. **Evaluación de Infraestructura:**
+   - Realizar evaluaciones periódicas de la infraestructura vial en áreas críticas, con el objetivo de mejorar señalizaciones, cruces peatonales y condiciones de la carretera.
 
 ## Contacto
 
